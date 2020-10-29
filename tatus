@@ -1,0 +1,69 @@
+[33mcommit 1e10fbeb7c7f282518318e796b426682ab588fac[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-two[m[33m, [m[1;32mfeature-one[m[33m)[m
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 22:59:16 2020 -0400
+
+    changes in feature-one branch
+
+[33mcommit cad3912e96c40d05d6f1022afe52be01593492f4[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 3eb1c02 a9e974f
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 22:00:56 2020 -0400
+
+    Retained Mark & Orange Color
+
+[33mcommit 3eb1c02548034194a1d3deead609d9e4b73a9133[m
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 21:52:36 2020 -0400
+
+    Added H3 Orange
+
+[33mcommit a9e974f654e197b3fc73ba5311196cb5c3551931[m
+Author: Mascenciog <67958395+Mascenciog@users.noreply.github.com>
+Date:   Wed Oct 28 21:47:06 2020 -0400
+
+    Add H3 + Style
+
+[33mcommit 24021a12e5763ae4f778d2b7d63a77dab184dc9b[m
+Merge: 4b77413 50bdb01
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 21:31:41 2020 -0400
+
+    Merge branch 'master' of github.com:Mascenciog/SshRemoteRepo
+
+[33mcommit 50bdb012a38c907bcf565fb96961d47efae40ec7[m
+Author: Mascenciog <67958395+Mascenciog@users.noreply.github.com>
+Date:   Wed Oct 28 21:28:30 2020 -0400
+
+    Added Style to H2
+
+[33mcommit 4b77413401f0e2ff7e62f1d6d963259baa231c14[m
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 21:24:28 2020 -0400
+
+    Second header added
+
+[33mcommit 9cd442ed8c3401b631bdbb8de180ea5f71f4631c[m
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 21:12:14 2020 -0400
+
+    Added Style Tag per review comment
+
+[33mcommit aa3e8615a731fdc2b4f1ca615ee8e7530f2c5f86[m
+Author: Mascenciog <67958395+Mascenciog@users.noreply.github.com>
+Date:   Wed Oct 28 19:59:00 2020 -0400
+
+    Added review comments
+
+[33mcommit ef1b1800b7d698cee7c7cc64cdee3c3311f6d7bf[m
+Author: Mascenciog <67958395+Mascenciog@users.noreply.github.com>
+Date:   Wed Oct 28 19:43:19 2020 -0400
+
+    Update index.html
+    
+    H1 Description
+
+[33mcommit f10b82ab07208ce0b2daea4fc56fb2bba17797d5[m
+Author: Manuel Ascencio <Mascencio@centennialcollege.ca>
+Date:   Wed Oct 28 18:45:42 2020 -0400
+
+    Title of the file
